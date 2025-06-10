@@ -1,0 +1,46 @@
+body{
+    background-color: #DFD0B8;
+    margin: 0;
+    font-family: 'Georgia', serif;
+    display: flex;
+}
+nav {
+      position: absolute;
+      text-align: right;
+      top: 30px;
+      right: 40px;
+    }
+nav a {
+      margin-left: 20px;
+      text-decoration: none;
+      color: white;
+      font-size: 14px;
+}
+    nav a:hover{
+      cursor: pointer;
+      color: #948979;
+    }
+.sampul{
+    background-color: #222831;
+    margin-top: 80px;
+    padding-right: 94px;
+    padding-bottom: 80px; 
+}
+.garis{
+    background-color: white;
+    position: absolute;
+    color: white;
+    margin-top: 90px;
+    padding: 0px 677px;
+}
+.garis2{
+    background-color: white;
+    position: absolute;
+    color: white;
+    margin-top: 600px;
+    padding: 0px 677px;
+}
+.posisi{
+    margin-top: 180px;
+    margin-left: 200px;
+}
